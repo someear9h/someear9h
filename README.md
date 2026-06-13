@@ -30,7 +30,7 @@ Fixed the omitted `<attachTime>` element in the EC2 `describe-instances` XML res
 ### [JKeyDB](https://github.com/someear9h/JKeyDB) (NoSQL Database Engine)
 *   Architected a production-grade NoSQL database engine in Java from scratch, modeled on DynamoDB's partition keys, sort keys, and durability design.
 *   Engineered a custom Write-Ahead Log (WAL) with startup replay, surviving all crash scenarios with zero data loss.
-*   Designed composite key storage enabling range queries at O(\log n) versus O(n) full scans, achieving sub-millisecond response times on partitions with over 10,000 items via a Spring Boot REST API.
+*   Designed composite key storage enabling range queries at `O(log n)` versus `O(n)` full scans, achieving sub-millisecond response times on partitions with over 10,000 items via a Spring Boot REST API.
 
 ### [Patient Data Orchestrator](https://github.com/someear9h/Patient-Data-Orchestrator) (Microservices)
 *   Architected a 5+ service microservices system utilizing Spring Boot and an API Gateway, secured with JWT and Spring Security to block unauthorized requests.
