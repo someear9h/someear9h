@@ -6,13 +6,15 @@ I build distributed systems, focusing on architecting scalable, production-grade
 
 I am currently pursuing a B.Tech in Electronics at MIT Academy of Engineering, Pune, with an expected graduation in July 2027. 
 
-I place a strong emphasis on advanced algorithmic problem-solving and system design, maintaining a 1600+ rating on LeetCode with over 450 problems solved.
+I place a strong emphasis on advanced algorithmic problem-solving and system design with over 500+ leetcode problems solved.
 
 
 
 ---
 
 ## Open Source Contributions
+
+I have contributed quite a few times to open-source, but these are the two PRs I think were the most interesting
 
 ### [Floci](https://github.com/floci-io/floci) (Local Cloud Emulator)
 *   **ECS Lifecycle & Terraform Parity** [Pull Request](https://github.com/floci-io/floci/pull/1166)
